@@ -15,3 +15,12 @@ Zagadnienia z informatyki od zawsze mnie fascynowały, jednakże nie potrafiłem
 <ol>C# od podstaw - intensywny kurs programowania - Patrk Mikulstki (Udemy)</ol>
 <ol>Programowanie w JavaScript od Zera do Mastera - Kuba Wąsikowski (Udemy)</ol>
 <ol>Blender Character Creation Megacourse: Beginner to Expert - Creativity Unleashed</ol>
+
+<h1>Narzędzia:</h1>
+
+<ol>HTML/CSS3</ol>
+<ol>Jira</ol>
+<ol>DevTools</ol>
+<ol>SQL</ol>
+<ol>JS</ol>
+<ol>Retusz Grafiki 2D, Modelowanie grafiki 3D</ol>
