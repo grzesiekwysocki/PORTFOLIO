@@ -2,7 +2,7 @@
 
 <h1>O mnie:</h1>
 
-Jestem młodym inżynierem informatyki, który zagadnieniami z zakresu IT interesował się już od najmłodszych lat. Na samym początku były to zagadnienia z zakresu działania sprzętu komputerowego oraz kofiguracji systemu, na późniejszych etapach wraz z rozwojem kariery był to rozwój oprogramowania. 
+Zagadnienia z informatyki od zawsze mnie fascynowały, jednakże nie potrafiłem znaleźć odpowiedniego dla siebie kierunku. Jako nastolatek dorabiałem tworząc strony internetowe oparte na CMS PHP Fusion 7 oraz Wordpress, po ukończeniu studiów przez pewien czas byłem wdrożeniowcem do systemu ERP oraz pracowałem w helpdesku jako linia trzeciego wsparcia. Zdażyło się mi się również pracować jako serwisant internetowy.
 
 <h1>Książki:</h1>
 
