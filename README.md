@@ -13,5 +13,5 @@ Jestem młodym inżynierem informatyki, który zagadnieniami z zakresu IT intere
 
 <ol>Bootcamp - Akademia Testowania testuj.pl - Łukasz Zajączkowski</ol>
 <ol>C# od podstaw - intensywny kurs programowania - Patrk Mikulstki (Udemy)</ol>
-<ol>Programowanie w JavaScript od Zera do Mastera - Kuba Wąsikowski (Udemy)
+<ol>Programowanie w JavaScript od Zera do Mastera - Kuba Wąsikowski (Udemy)</ol>
 <ol>Blender Character Creation Megacourse: Beginner to Expert - Creativity Unleashed</ol>
