@@ -14,7 +14,7 @@ Zagadnienia z informatyki od zawsze mnie fascynowały, jednakże nie potrafiłem
 <ol>Bootcamp - Akademia Testowania testuj.pl - Łukasz Zajączkowski</ol>
 <ol>C# od podstaw - intensywny kurs programowania - Patrk Mikulstki (Udemy)</ol>
 <ol>Programowanie w JavaScript od Zera do Mastera - Kuba Wąsikowski (Udemy)</ol>
-<ol>Blender Character Creation Megacourse: Beginner to Expert - Creativity Unleashed</ol>
+<ol><a href="https://www.udemy.com/course/blender-character-creation-megacourse-beginner-to-expert">Blender Character Creation Megacourse: Beginner to Expert</a> - Creativity Unleashed</ol>
 
 <h1>Narzędzia:</h1>
 
