@@ -1,16 +1,16 @@
 # PORTFOLIO
 
-## O mnie:
+# About me
 
-Zagadnienia z informatyki od zawsze mnie fascynowały, jednakże nie potrafiłem znaleźć odpowiedniego dla siebie kierunku. Jako nastolatek dorabiałem tworząc strony internetowe oparte na CMS PHP Fusion 7 oraz Wordpress, po ukończeniu studiów przez pewien czas byłem wdrożeniowcem do systemu ERP oraz pracowałem w helpdesku jako linia trzeciego wsparcia. Zdażyło się mi się również pracować jako serwisant internetowy.
+I have always been fascinated by computer science issues but I had problem to find right way to develop my tech skills. As a teenager, I earned money by creating websites based on CMS PHP Fusion 7 and Wordpress. After graduate, I worked as junior ERP implenet specialist and helpdesk as line 3 support. I also worked too as an internet service technician. 
 
-# Książk:
+# Tech Books
 <ul>
 <li>Certyfikowany tester ISTQB. Poziom podstawowy - Roman Adam Stapp Lucjan </li>
 <li>Zawód tester - Radosław Smiglin</li>
 </ul>
 
-# Kursy
+# Courses
 <ul>
 <li><a href="https://testuj.pl">Bootcamp - Akademia Testowania testuj.pl</a> - Łukasz Zajączkowski</li>
 <li><a href="https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta/">Chrome DevTools: Od podstaw do Eksperta</a> - Rafał Podraza (Udemy)</li>
@@ -19,7 +19,7 @@ Zagadnienia z informatyki od zawsze mnie fascynowały, jednakże nie potrafiłem
 <li><a href="https://www.udemy.com/course/blender-character-creation-megacourse-beginner-to-expert">Blender Character Creation Megacourse: Beginner to Expert</a> - Creativity Unleashed (Udemy)</li>
 </ul>
 
-# :white_check_mark: Narzędzia
+# :white_check_mark: Tools
 <ul>
 <li>HTML</li> 
 <li>CSS</li> 
@@ -32,12 +32,12 @@ Zagadnienia z informatyki od zawsze mnie fascynowały, jednakże nie potrafiłem
 
 </ul>
 
-# Przykładowe przypadki testowe:
+# Example test cases:
 <li><a href="https://drive.google.com/drive/folders/1_HM3yHIzw2GFc0O9IAqJqBUPi4thSRZY"> Weryfikacja stanu aplikacji po wyczyszczeniu cookies</a></li>
 <li><a href="https://drive.google.com/file/d/11VM_iNDGfHXjgeGdpQxzJxt16Sc32uoq/view?usp=sharing">Utworzenie taska</a></li>
 <li><a href="https://drive.google.com/file/d/1GAr_AXUxh6u96Flvhz3GY7mj26dN6g7I/view?usp=sharing"</a>Próba dodania nadmiarowych zadań</li>
 
-# Przykładowe raporty o defektach:
+# Example bug reports:
 <ul>
 <li><a href="https://drive.google.com/file/d/1TFUx1HSuDsbhZuv6cEDOiyEXKxusKb6a/view?usp=sharing">Nieprawidłowe działanie newsletter'a przy braku imienia</a></li>
 <li><a href="https://drive.google.com/file/d/1J-LogWTKIycH8N0SK3OT4yAq_AFhQIZg/view?usp=sharing">Brak możliwości odtworzenia stanu aplikacji po jej ponownym uruchomieniu</a> </li>
