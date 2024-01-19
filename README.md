@@ -13,7 +13,7 @@ Zagadnienia z informatyki od zawsze mnie fascynowały, jednakże nie potrafiłem
 <h1>Kursy:</h1>
 <ul>
 <li><a href="https://testuj.pl">Bootcamp - Akademia Testowania testuj.pl</a> - Łukasz Zajączkowski</li>
-<li><a href="https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta/">Chrome DevTools: Od podstaw do Eksperta - Rafał Podraza </a>
+<li><a href="https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta/"></a>Chrome DevTools: Od podstaw do Eksperta - Rafał Podraza</li>
 <li><a href="https://www.udemy.com/course/kurs-c-sharp-od-podstaw">C# od podstaw - intensywny kurs programowania</a> - Patrk Mikulstki (Udemy)</li>
 <li><a href="https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera">Programowanie w JavaScript od Zera do Mastera</a> - Kuba Wąsikowski (Udemy)</li>
 <li><a href="https://www.udemy.com/course/blender-character-creation-megacourse-beginner-to-expert">Blender Character Creation Megacourse: Beginner to Expert</a> - Creativity Unleashed</li>
@@ -25,8 +25,9 @@ Zagadnienia z informatyki od zawsze mnie fascynowały, jednakże nie potrafiłem
 <li>CSS3</li>
 <li>Jira</li>
 <li>DevTools</li>
+<li>TestLink</li>
+<li>MantisBT</li>
 <li>SQL</li>
 <li>JS</li>
-<li>Retusz Grafiki 2D</li>
-<li>Modelowanie grafiki 3D</li> 
+
 </ul>
