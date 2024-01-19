@@ -1,5 +1,5 @@
 # PORTFOLIO
-
+<body style="border-style: dotted;">
 <h1>O mnie:</h1>
 
 Zagadnienia z informatyki od zawsze mnie fascynowały, jednakże nie potrafiłem znaleźć odpowiedniego dla siebie kierunku. Jako nastolatek dorabiałem tworząc strony internetowe oparte na CMS PHP Fusion 7 oraz Wordpress, po ukończeniu studiów przez pewien czas byłem wdrożeniowcem do systemu ERP oraz pracowałem w helpdesku jako linia trzeciego wsparcia. Zdażyło się mi się również pracować jako serwisant internetowy.
@@ -43,3 +43,4 @@ Zagadnienia z informatyki od zawsze mnie fascynowały, jednakże nie potrafiłem
 <li><a href="https://drive.google.com/drive/folders/10vHjFIvSu3kiZyD018wfuUGnD1HhmJRK">Nieprawidłowe aktualizacja koszyka w czasie rzeczywistym</a></li>
 <li><a href="https://drive.google.com/drive/folders/1WAZhGiMLHbr2S-FtoikQ_zMjHlmfC1r2">Brak możliwości odtworzenia alikacji po jej ponownym uruchomieniu</a> </li>
 <li><a></a></li>
+</body>
