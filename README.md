@@ -23,7 +23,7 @@ Zagadnienia z informatyki od zawsze mnie fascynowały, jednakże nie potrafiłem
 <ul>
 <li>HTML</li>
 <li>CSS3</li>
-<li>Jira</li>
+<li>Jira + Xray</li>
 <li>DevTools</li>
 <li>TestLink</li>
 <li>MantisBT</li>
