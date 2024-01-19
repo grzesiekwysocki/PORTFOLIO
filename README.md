@@ -13,10 +13,10 @@ Zagadnienia z informatyki od zawsze mnie fascynowały, jednakże nie potrafiłem
 <h1>Kursy:</h1>
 <ul>
 <li><a href="https://testuj.pl">Bootcamp - Akademia Testowania testuj.pl</a> - Łukasz Zajączkowski</li>
-<li><a href="https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta/">Chrome DevTools: Od podstaw do Eksperta - Rafał Podraza (Udemy)</li>
+<li><a href="https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta/">Chrome DevTools: Od podstaw do Eksperta</a> - Rafał Podraza (Udemy)</li>
 <li><a href="https://www.udemy.com/course/kurs-c-sharp-od-podstaw">C# od podstaw - intensywny kurs programowania</a> - Patrk Mikulstki (Udemy)</li>
 <li><a href="https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera">Programowanie w JavaScript od Zera do Mastera</a> - Kuba Wąsikowski (Udemy)</li>
-<li><a href="https://www.udemy.com/course/blender-character-creation-megacourse-beginner-to-expert">Blender Character Creation Megacourse: Beginner to Expert</a> - Creativity Unleashed(Udemy)</li>
+<li><a href="https://www.udemy.com/course/blender-character-creation-megacourse-beginner-to-expert">Blender Character Creation Megacourse: Beginner to Expert</a> - Creativity Unleashed (Udemy)</li>
 </ul>
 
 <h1>Narzędzia:</h1>
