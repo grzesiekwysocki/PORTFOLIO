@@ -31,3 +31,15 @@ Zagadnienia z informatyki od zawsze mnie fascynowały, jednakże nie potrafiłem
 <li>JS</li>
 
 </ul>
+
+<h1>Przykładowe przypadki testowe:</h1>
+<li><a href="https://drive.google.com/drive/folders/1_HM3yHIzw2GFc0O9IAqJqBUPi4thSRZY"> Weryfikacja stanu aplikacji po wyczyszczeniu cookies</a></li>
+<li><a href=""</a></li>
+<li><a href=""</a></li>
+
+<h1>Przykładowe raporty o defektach:</h1>
+<li><a href="https://drive.google.com/drive/folders/10vHjFIvSu3kiZyD018wfuUGnD1HhmJRK">Nieprawidłowe działanie newsletter'a przy braku imienia</a></li>
+<li><a href="https://drive.google.com/drive/folders/10vHjFIvSu3kiZyD018wfuUGnD1HhmJRK">Nieprawidłowe działanie hiperłącza e-mail</a></li>
+<li><a href="https://drive.google.com/drive/folders/10vHjFIvSu3kiZyD018wfuUGnD1HhmJRK">Nieprawidłowe aktualizacja koszyka w czasie rzeczywistym</a></li>
+<li><a href="https://drive.google.com/drive/folders/1WAZhGiMLHbr2S-FtoikQ_zMjHlmfC1r2">Brak możliwości odtworzenia alikacji po jej ponownym uruchomieniu</a> </li>
+<li><a></a></li>
