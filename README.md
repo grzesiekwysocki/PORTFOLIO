@@ -1,5 +1,7 @@
 # PORTFOLIO
-AGENDA
+
+<a name="">AGENDA :pencil:</a>
+
 :one: [ABOUT ME](#aboutme)
 
 2️⃣ [TECH BOOKS](#techbooks)
@@ -31,7 +33,7 @@ I have always been fascinated by computer science issues but I had problem to fi
 <li><a href="https://www.udemy.com/course/blender-character-creation-megacourse-beginner-to-expert">Blender Character Creation Megacourse: Beginner to Expert</a> - Creativity Unleashed (Udemy)</li>
 </ul>
 
-<a name="tools">TOOLS :computer:</a>
+<a name="tools">TOOLS 🛠️:</a>
 <ul>
 <li>HTML</li> 
 <li>CSS</li> 
@@ -50,7 +52,9 @@ I have always been fascinated by computer science issues but I had problem to fi
 <li><a href="https://drive.google.com/file/d/11VM_iNDGfHXjgeGdpQxzJxt16Sc32uoq/view?usp=sharing">Utworzenie taska</a></li>
 <li><a href="https://drive.google.com/file/d/1GAr_AXUxh6u96Flvhz3GY7mj26dN6g7I/view?usp=sharing"</a>Próba dodania nadmiarowych zadań</li>
 </ul>
-<a name="BRE">BUG REPORTS EXAMPLE :beetle:</a><br>
+
+<a name="BRE">BUG REPORTS EXAMPLE :beetle:</a>
+  
 <ul>
 <li><a href="https://drive.google.com/file/d/1TFUx1HSuDsbhZuv6cEDOiyEXKxusKb6a/view?usp=sharing">Nieprawidłowe działanie newsletter'a przy braku imienia</a></li>
 <li><a href="https://drive.google.com/file/d/1J-LogWTKIycH8N0SK3OT4yAq_AFhQIZg/view?usp=sharing">Brak możliwości odtworzenia stanu aplikacji po jej ponownym uruchomieniu</a> </li>
