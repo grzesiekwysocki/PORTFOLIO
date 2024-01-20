@@ -1,10 +1,15 @@
 # PORTFOLIO
 ### AGENDA
 :one: [ABOUT ME](#aboutme)
+
 2️⃣ [TECH BOOKS](#techbooks)
+
 :three: [COURSES](#courses)
+
 :four: [TOOLS](#tools)
+
 :five: [TEST CASE EXAMPLE](#TCE)
+
 :six: [BUG REPORTS EXAMPLE](#BRE)
 
 <a name="aboutme">ABOUT ME :mag_right:</a>
