@@ -16,7 +16,7 @@
 
 <a name="aboutme">ABOUT ME :mag_right:</a>
 
-I have always been fascinated by computer science issues but I had problem to find right way to develop my tech skills. As a teenager, I earned money by creating websites based on CMS PHP Fusion 7 and Wordpress. After graduate, I worked as junior ERP implenet specialist and helpdesk as line 3 support. I also worked too as an internet service technician. 
+I have always been fascinated by computer science issues but I had problem to find right way to develop my tech skills. As a teenager, I earned money by creating websites based on CMS PHP Fusion 7 and Wordpress. After graduate, I worked as junior ERP implement specialist and helpdesk as line 1 support. I also worked too as an internet service technician. 
 
 <a name="techbooks">TECH BOOKS :book:</a>
 <ul>
@@ -42,6 +42,8 @@ I have always been fascinated by computer science issues but I had problem to fi
 <li>TestLink</li>
 <li>MantisBT</li>
 <li>SQL</li>
+<li>REST API</li>
+<li>Postman</li>
 <li>JS</li>
 
 </ul>
