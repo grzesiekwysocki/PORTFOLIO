@@ -17,7 +17,7 @@
 <a name="aboutme">ABOUT ME :mag_right:</a>
 
 
-I always feeling good when I help somoeone resolve his problem with software or hardware that's why i worked as service desk sepcialist. When problem is more dificult I like imagein put myself in someone else's shoes and I trying to figure it out what's wrong and why a things which should run properly doesnt run alrady.Thinking unconventionally is a clue with smilar situation. I decided to not develop my helpdesk skills and try somthing else. I burned out, resolving excacly the same problems day by day in long term is really boring. Don't get me wrong, I still really like helpdesk things but hearing the same doubts and asks above than 20 times per day is really tedious.
+I always feeling good when I help somoeone resolve his problem with software or hardware that's why i worked as service desk sepcialist. When problem is more dificult I like imagein put myself in someone else's shoes and I trying to figure it out what's wrong and why a things which should run properly doesnt run alrady. Thinking unconventionally is a clue with smilar situation. I decided to not develop my helpdesk skills and try somthing else. I burned out, resolving excacly the same problems day by day in long term is really boring. Don't get me wrong, I still really like helpdesk things but hearing the same doubts and asks above than 20 times per day is really tedious.
 
 Then after that I looked for other branch IT to develop my skills wchich will guarantee job. I decided to start somthing in 3D graphic. I always want's to try modeling and texturing but I fast realized it's just my hobby somthing I like do occasionally in my free time. 
 
