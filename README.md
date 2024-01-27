@@ -59,6 +59,7 @@ When I made first begining steps in testing I realized I done this things previo
 <li><a href="https://drive.google.com/drive/folders/1_HM3yHIzw2GFc0O9IAqJqBUPi4thSRZY"> Weryfikacja stanu aplikacji po wyczyszczeniu cookies</a></li>
 <li><a href="https://drive.google.com/file/d/11VM_iNDGfHXjgeGdpQxzJxt16Sc32uoq/view?usp=sharing">Utworzenie taska</a></li>
 <li><a href="https://drive.google.com/file/d/1GAr_AXUxh6u96Flvhz3GY7mj26dN6g7I/view?usp=sharing"</a>Próba dodania nadmiarowych zadań</li>
+<li>In progress ...</li>
 </ul>
 
 <a name="BRE">BUG REPORTS EXAMPLE :beetle:</a>
@@ -68,5 +69,6 @@ When I made first begining steps in testing I realized I done this things previo
 <li><a href="https://drive.google.com/file/d/1J-LogWTKIycH8N0SK3OT4yAq_AFhQIZg/view?usp=sharing">Brak możliwości odtworzenia stanu aplikacji po jej ponownym uruchomieniu</a> </li>
 <li><a href="https://drive.google.com/file/d/1aFLOxSaKWEbvLqnevdh8ujwdf8qR4DNA/view?usp=sharing">Nieprawidłowe działanie hiperłącza e-mail</a></li>
 <li><a href="https://drive.google.com/file/d/1BWlsXvyAHMoRyRlyYXxpNa8qHKfW2OM4/view?usp=sharing">Brak aktualizacja koszyka w czasie rzeczywistym</a></li>
+<li>In progress ...</li>
 </ul>
 
