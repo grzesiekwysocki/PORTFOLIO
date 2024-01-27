@@ -16,7 +16,13 @@
 
 <a name="aboutme">ABOUT ME :mag_right:</a>
 
-I have always been fascinated by computer science issues but I had problem to find right way to develop my tech skills. As a teenager, I earned money by creating websites based on CMS PHP Fusion 7 and Wordpress. After graduate, I worked as junior ERP implement specialist and helpdesk as line 1 support. I also worked too as an internet service technician. 
+
+I always feeling good when I help somoeone resolve his problem with software or hardware. When problem is more dificult I like imagein put myself in someone else's shoes and I trying to figure it out what's wrong and why a things which should run properly doesnt run alrady.Thinking unconventionally is a clue with smilar situation. I decided to not develop my helpdesk skills and try somthing else. I burned out, resolving excacly the same problems day by day in long term is really boring. Don't get me wrong, I still really like helpdesk things but hearing the same doubts and asks above than 20 times per day is really tedious.
+
+Then after that I looked for other branch IT to develop my skills wchich will guarantee job. I decided to start somthing in 3D graphic. I always want's to try modeling and texturing but I fast realized it's just my hobby somthing I like do occasionally in my free time. 
+
+
+When I made first begining steps in testing I realized I done this things previously. I created bug tickets for above support line than me similar like bug reports. I described step by step things wchich customers should do to resolve his problems similar like test cases. I always done retest, regression tests, functional, nonfunctional to my own projects why I studied. Why I decided to develop QC skills ? Testing is an endless opportunity to find typos, logical errors or functionalities that can work better and easier. Another plus of being a tester is using my creativity. I always try to find a new way to "break" something in the software.
 
 <a name="techbooks">TECH BOOKS :book:</a>
 <ul>
@@ -26,7 +32,7 @@ I have always been fascinated by computer science issues but I had problem to fi
 
 <a name="courses">COURSES :computer:</a>
 <ul>
-<li><a href="https://testuj.pl">Bootcamp - Akademia Testowania testuj.pl</a> - Łukasz Zajączkowski</li>
+<li><a href="https://testuj.pl">Akademia Testowania testuj.pl</a> - Łukasz Zajączkowski</li>
 <li><a href="https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta/">Chrome DevTools: Od podstaw do Eksperta</a> - Rafał Podraza (Udemy)</li>
 <li><a href="https://www.udemy.com/course/kurs-c-sharp-od-podstaw">C# od podstaw - intensywny kurs programowania</a> - Patrk Mikulstki (Udemy)</li>
 <li><a href="https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera">Programowanie w JavaScript od Zera do Mastera</a> - Kuba Wąsikowski (Udemy)</li>
