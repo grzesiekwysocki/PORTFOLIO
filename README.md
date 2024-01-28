@@ -56,6 +56,7 @@ When I made first begining steps in testing I realized I done this things previo
 
 <a name="TCE">TEST CASE EXAMPLE :page_with_curl:</a>
 <ul>
+<li><a href="https://drive.google.com/file/d/1YYm9NS2ykpA6GD-H-tLS2p71ykGnF38q/view?usp=sharing"> Sprawdzenie możliwości sprawdzenia informacji o gwarancji / apple.com</a></li>
 <li><a href="https://drive.google.com/drive/folders/1_HM3yHIzw2GFc0O9IAqJqBUPi4thSRZY"> Weryfikacja stanu aplikacji po wyczyszczeniu cookies</a></li>
 <li><a href="https://drive.google.com/file/d/11VM_iNDGfHXjgeGdpQxzJxt16Sc32uoq/view?usp=sharing">Utworzenie taska</a></li>
 <li><a href="https://drive.google.com/file/d/1GAr_AXUxh6u96Flvhz3GY7mj26dN6g7I/view?usp=sharing"</a>Próba dodania nadmiarowych zadań</li>
@@ -65,6 +66,8 @@ When I made first begining steps in testing I realized I done this things previo
 <a name="BRE">BUG REPORTS EXAMPLE :beetle:</a>
   
 <ul>
+<li><a href="https://drive.google.com/file/d/1R8ff4BD-6C3Lu8R4wtxM7e1o5PRj3R7Z/view?usp=sharing">Brak spolszczenia dla odnośnika dla polskiej wersji strony/ samsung.pl</a></li>
+<li><a href="https://drive.google.com/file/d/187ZUiVl_HymqX0tVFV-hpM-XUfyZma10/view?usp=sharing">Brak możliwości przejścia na podstronę/ allegro.pl</a></li>
 <li><a href="https://drive.google.com/file/d/1TFUx1HSuDsbhZuv6cEDOiyEXKxusKb6a/view?usp=sharing">Nieprawidłowe działanie newsletter'a przy braku imienia</a></li>
 <li><a href="https://drive.google.com/file/d/1J-LogWTKIycH8N0SK3OT4yAq_AFhQIZg/view?usp=sharing">Brak możliwości odtworzenia stanu aplikacji po jej ponownym uruchomieniu</a> </li>
 <li><a href="https://drive.google.com/file/d/1aFLOxSaKWEbvLqnevdh8ujwdf8qR4DNA/view?usp=sharing">Nieprawidłowe działanie hiperłącza e-mail</a></li>
