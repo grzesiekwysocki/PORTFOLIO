@@ -66,8 +66,8 @@ When I made first begining steps in testing I realized I done this things previo
 <a name="BRE">BUG REPORTS EXAMPLE :beetle:</a>
   
 <ul>
-<li><a href="https://drive.google.com/file/d/1R8ff4BD-6C3Lu8R4wtxM7e1o5PRj3R7Z/view?usp=sharing">Brak spolszczenia dla odnośnika dla polskiej wersji strony</a> - samsnung.com</li>
-<li><a href="https://drive.google.com/file/d/187ZUiVl_HymqX0tVFV-hpM-XUfyZma10/view?usp=sharing">Brak możliwości przejścia na podstronę</a> - allegro.pl</li>
+<li><a href="https://drive.google.com/file/d/1R8ff4BD-6C3Lu8R4wtxM7e1o5PRj3R7Z/view?usp=sharing">Brak spolszczenia dla odnośnika dla polskiej wersji strony</a> - Samsung.com</li>
+<li><a href="https://drive.google.com/file/d/187ZUiVl_HymqX0tVFV-hpM-XUfyZma10/view?usp=sharing">Brak możliwości przejścia na podstronę</a> - Allegro.pl</li>
 <li><a href="https://drive.google.com/file/d/1TFUx1HSuDsbhZuv6cEDOiyEXKxusKb6a/view?usp=sharing">Nieprawidłowe działanie newsletter'a przy braku imienia</a></li>
 <li><a href="https://drive.google.com/file/d/1J-LogWTKIycH8N0SK3OT4yAq_AFhQIZg/view?usp=sharing">Brak możliwości odtworzenia stanu aplikacji po jej ponownym uruchomieniu</a> </li>
 <li><a href="https://drive.google.com/file/d/1aFLOxSaKWEbvLqnevdh8ujwdf8qR4DNA/view?usp=sharing">Nieprawidłowe działanie hiperłącza e-mail</a></li>
