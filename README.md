@@ -50,6 +50,7 @@ When I made first begining steps in testing I realized I done this things previo
 <li>SQL</li>
 <li>REST API</li>
 <li>Postman</li>
+<li>SCRUM</li>
 <li>JS</li>
 
 </ul>
