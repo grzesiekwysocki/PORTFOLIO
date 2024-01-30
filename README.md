@@ -10,7 +10,7 @@
 
 :four: [TEST MENAGMENT TOOLS](#tools)
 
-5️⃣: [TECH TESTING SKILLS](#skills)
+5️⃣ [TECH TESTING SKILLS](#skills)
 
 :six: [TEST CASE EXAMPLE](#TCE)
 
@@ -55,10 +55,10 @@ When I made first begining steps in testing I realized I done this things previo
   <li>Creating Test Cases</li>
   <li>Creating Bug Reports</li>
   <li>HTML - good knowlage, I used it when I created website based on CMS: PHP Fusion 7 and Wordpress</li> 
-  <li>CSS - basic/begiiner knowlage </li>
+  <li>CSS - basic/beginer knowlage </li>
   <li>SQL - good knowlage mostly experienced when I studied IT and from work </li>
   <li>REST API Testing - basic knowlage</li>
-  <li>Begginer/Basic knowlage about structured programming/OOP (JS, ANSI C, C#)</li>
+  <li>Beginer/Basic knowlage about structured programming/OOP (JS, ANSI C, C#)</li>
   <li>SCRUM - basic knowlage about how agile company work looks like, a few months experiencse in agile company</li>
 </ul>
 
