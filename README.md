@@ -28,6 +28,7 @@ When I made first begining steps in testing I realized I done this things previo
 
 <a name="techbooks">TECH BOOKS :book:</a>
 <ul>
+<li>Testowanie full stack - Mohan Gayathri></li>
 <li>Certyfikowany tester ISTQB. Poziom podstawowy - Roman Adam, Stapp Lucjan </li>
 <li>Zawód tester - Radosław Smiglin</li>
 <li>Podróż przez świat testowania - Karolina Pawłowska, Natalia Pawlak</li>
